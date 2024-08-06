@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://costigrec.github.io/sitemap.html.gz
+Sitemap: https://costigrec.github.io/app/sitemap.html.gz
+Sitemap: https://costigrec.github.io/assets/sitemap.html.gz
+Sitemap: https://costigrec.github.io/css/sitemap.html.gz
+Sitemap: https://costigrec.github.io/includes/sitemap.html.gz
+Sitemap: https://costigrec.github.io/item/sitemap.html.gz
+Sitemap: https://costigrec.github.io/src/sitemap.html.gz
